@@ -1,0 +1,20 @@
+{
+  "nodes": {      
+    "puppetagent.vamshi.com": {
+      ":ip": "192.168.32.30",
+      "ports": [],
+      ":memory": 1024,
+      ":box": "puppetlabs/centos-7.0-64-puppet",
+      ":box_url": "https://vagrantcloud.com/puppetlabs/centos-7.0-64-puppet",
+      ":bootstrap": "centos-node.sh"
+    },
+    "puppetagent.vamshi.com": {
+      ":ip": "192.168.32.30",
+      "ports": [],
+      ":memory": 1024,
+      ":box": "puppetlabs/centos-7.0-64-puppet",
+      ":box_url": "https://vagrantcloud.com/puppetlabs/centos-7.0-64-puppet",
+      ":bootstrap": "centos-node.sh"
+    }
+  }
+}
